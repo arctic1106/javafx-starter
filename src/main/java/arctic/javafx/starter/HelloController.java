@@ -1,4 +1,4 @@
-package com.arcticsoft.fx.starter;
+package arctic.javafx.starter;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
