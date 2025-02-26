@@ -1,4 +1,4 @@
-package dev.arcticsoft.javafxstarter;
+package dev.arcticsoft.fxstarter;
 
 public final class Controller {
 	private final DynamicViewHandler dynamicViewHandler;

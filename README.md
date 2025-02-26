@@ -16,9 +16,16 @@ A simple JavaFX application template that demonstrates how to build a maintainab
 - **Java 23** or later.
 - **Maven** for building and running the project.
 
-## Running the Project
-```bash
-git clone https://github.com/your-username/javafx-starter.git
-cd javafx-starter
+## Running directly with the javaFX plugin
+```sh
 mvn javafx:run
+```
+
+## Creating jar without dependencies (fat jar)
+```sh
+mvn clean package
+```
+Run normally:
+```sh
+java -jar <jarfile>
 ```

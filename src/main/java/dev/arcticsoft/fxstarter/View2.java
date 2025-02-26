@@ -1,4 +1,4 @@
-package dev.arcticsoft.javafxstarter;
+package dev.arcticsoft.fxstarter;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
