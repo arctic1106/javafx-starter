@@ -12,7 +12,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<maven.compiler.release>23</maven.compiler.release>
+		<maven.compiler.release>24</maven.compiler.release>
 		<mainclass>dev.arcticsoft.fxstarter.Launcher</mainclass>
 	</properties>
 
@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>org.openjfx</groupId>
 			<artifactId>javafx-controls</artifactId>
-			<version>23.0.2</version>
+			<version>24</version>
 			<classifier>win</classifier>
 		</dependency>
 	</dependencies>
